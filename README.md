@@ -1,4 +1,4 @@
-# pokemons-app-api
+# Pokemons App API
 
 ## `Notes on API`
 
