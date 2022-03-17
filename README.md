@@ -1,1 +1,1 @@
-# pokemons-app
+# pokemons-app-api
