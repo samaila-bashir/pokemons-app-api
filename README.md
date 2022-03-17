@@ -12,3 +12,4 @@ Below are the list of items thatI will like to add to improve the application:
 4. I will implement email verification to ensure that only users with valid email addresses will be able to login and make changes to the list of Pokemons.
 5. I will add reset password for users who forgot their password. 
 6. On the admin dashboard, I will add a change password page for users who wish to change their password to something else.  
+7. I will add something like a subscribe feature on the API that will enable users to select a couple of Pokemons that they would like to recieve email notifications whenever any changes are made on the selected Pokemons. 
